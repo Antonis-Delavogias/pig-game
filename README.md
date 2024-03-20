@@ -1,4 +1,4 @@
-[pig-game]
+# [pig-game]
 
 Project Goals:
 
