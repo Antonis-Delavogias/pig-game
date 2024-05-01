@@ -10,7 +10,7 @@
 
 * Utilize variables, data types, and conditional statements for game logic.
 
-What I Learned:
+# What I Learned:
 
 * DOM Manipulation: Selecting and modifying HTML elements using document.querySelector, getElementById, and methods like .textContent and .classList.
 
@@ -24,7 +24,7 @@ What I Learned:
 
 * Random Numbers: Generating random dice rolls using Math functions to simulate the game's core mechanic.
 
-Feel free to:
+# Feel free to:
 
 * Explore the code to see how JavaScript interacts with the HTML and CSS to create the game.
 
